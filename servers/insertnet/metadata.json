@@ -1,11 +1,11 @@
 {
     "id": "insertnet",
-    "name": "Insert",
-    "store": "https://store.insertnet.eu",
+    "name": "InsertHub",
+    "store": "https://store.inserthub.xyz",
     "addresses": [
-        "insertnet.eu"
+        "inserthub.xyz"
     ],
-    "primaryAddress": "insertnet.eu",
+    "primaryAddress": "inserthub.xyz",
     "primaryColor": "#0069fb",
     "secondaryColor": "#0057b4",
     "minecraftVersions": [
@@ -28,7 +28,7 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/kTJtKYjwDG"
+        "discord": "https://discord.com/invite/rKjYQGdABN"
     }
 }
 
