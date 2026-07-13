@@ -3,6 +3,7 @@
     "name": "Minerium",
     "website": "https://minerium.fr/",
     "store": "https://minerium.fr/shop/categories/credits",
+    "description": "Play Factions and PvP on Minerium.",
     "addresses": [
         "minerium.fr"
     ],
@@ -24,4 +25,4 @@
     "socials": {
         "discord": "https://discord.gg/KrTh3qZF5q"
     }
-} 
+}

@@ -1,11 +1,10 @@
 {
     "id": "manacube",
     "name": "ManaCube",
-    "description": "Home of the Cube. Engaging gamemodes, unique models and a thriving community",
     "website": "https://manacube.com/",
     "store": "https://store.manacube.com/",
     "wiki": "https://manacube.wiki/",
-    "presentationVideo": "YpNGlgZn2u4",
+    "description": "Timeless gamemodes, original features, active community",
     "addresses": [
         "manacube.com",
         "manacube.net"
@@ -15,28 +14,38 @@
     "secondaryColor": "#124656",
     "minecraftVersions": [
         "1.8.*",
+        "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Skyblock",
     "gameTypes": [
         "PvP",
         "Parkour",
-        "Skyblock"
+        "Skyblock",
+        "Prison",
+        "KitPvP",
+        "Creative",
+        "Survival"
     ],
-    "crossplay": true,
     "socials": {
         "twitter": "ManaCubeMC",
         "discord": "https://discord.com/invite/manacube",
         "youtube": "manacube",
-        "instagram": "manacubemc"
+        "instagram": "manacubemc",
+        "tiktok": "@manacubemc"
     },
     "compliance": {
         "rules": "https://manacube.com/rules",
         "support": "https://manacube.com/support/"
-    }
+    },
+    "presentationVideo": "YpNGlgZn2u4"
 }

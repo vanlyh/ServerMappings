@@ -2,6 +2,7 @@
     "id": "redeexe",
     "name": "EXE",
     "store": "https://loja.rede-exe.com",
+    "description": "Play PvP and Prison on EXE.",
     "addresses": [
         "rede-exe.com"
     ],
@@ -12,6 +13,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
@@ -28,6 +30,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/GzBcxG5Tse"
-    },
-    "crossplay": true
+    }
 }
