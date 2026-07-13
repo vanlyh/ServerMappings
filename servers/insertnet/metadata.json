@@ -1,7 +1,7 @@
 {
     "id": "insertnet",
     "name": "InsertHub",
-    "description": "Play Competitive on Insert.",
+    "description": "Play Casually or Competitively on Insert.",
     "store": "https://store.inserthub.xyz",
     "addresses": [
         "inserthub.xyz"
@@ -25,8 +25,9 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames"
+        "Practice",
+        "Casual",
+        "Competitive"
     ],
     "socials": {
         "discord": "https://discord.com/invite/rKjYQGdABN"
