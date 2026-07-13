@@ -1,6 +1,7 @@
 {
     "id": "insertnet",
     "name": "InsertHub",
+    "description": "Play Competitive on Insert.",
     "store": "https://store.inserthub.xyz",
     "addresses": [
         "inserthub.xyz"
